@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "419781861746",
+    "project_id": "doctor-consultation-aab0a",
+    "storage_bucket": "doctor-consultation-aab0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419781861746:android:4458cbce0b6df91cca7deb",
+        "android_client_info": {
+          "package_name": "com.example.doctor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419781861746-0qjm5f5kut863rmffl3rig29d429euch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doctor_app",
+            "certificate_hash": "0e7a47d05a0f28e05aa2ec8c222dc1ebde762f20"
+          }
+        },
+        {
+          "client_id": "419781861746-1iaspi7tqj7e42nbn0lbbnp6hu887ae5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFI3WdL0NApyBqSUYOBJcmYQlfsGUzm9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419781861746-1iaspi7tqj7e42nbn0lbbnp6hu887ae5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
